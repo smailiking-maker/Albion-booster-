@@ -1,0 +1,2 @@
+-keep class org.amnezia.** { *; }
+-dontwarn org.amnezia.**
